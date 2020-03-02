@@ -1,0 +1,3 @@
+[2020-03-02T16:52:39.387430+01:00] ForthChannel.ERROR: Just an error message [] []
+[2020-03-02T16:52:53.898804+01:00] ForthChannel.CRITICAL: Now a critical error [] []
+[2020-03-02T16:53:03.834653+01:00] ForthChannel.ALERT: Finally an alert message [] []
